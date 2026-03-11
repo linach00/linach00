@@ -9,9 +9,11 @@ of neuroimaging research, data engineering, and applied ML.
 
 Outside of data science, I'm a lash artist — and I'm channeling that 
 firsthand industry experience into **Lashfolio**, a client management app 
-built specifically for lash professionals. Think client profiles, visit 
-history, appointment notes, and service tracking: everything a lash artist 
-needs, finally in one place.
+built specifically for lash professionals. Features include client profiles, 
+visit history, appointment notes, and service tracking — tools I wished I had 
+as a practicing artist and that the industry currently lacks a dedicated solution for.
+
+
 
 ---
 
