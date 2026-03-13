@@ -8,7 +8,7 @@ real-world problems in health and science. My work sits at the intersection
 of neuroimaging research, data engineering, and applied ML.
 
 Outside of data science, I'm a lash artist — and I'm channeling that 
-firsthand industry experience into **Lashfolio**, a computer vision pipeline that recommends lash lift rod sizes from client photos
+firsthand industry experience into **Lashfolio**, a CV pipeline that detects eye shape, estimates natural lash length, and recommends the ideal lash lift rod size from client photos.
 
 
 ---
